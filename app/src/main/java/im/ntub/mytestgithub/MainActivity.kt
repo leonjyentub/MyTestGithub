@@ -13,6 +13,10 @@ import androidx.drawerlayout.widget.DrawerLayout
 import androidx.appcompat.app.AppCompatActivity
 import im.ntub.mytestgithub.databinding.ActivityMainBinding
 
+/**
+ *
+ * 作者: 林阿杰
+ */
 class MainActivity : AppCompatActivity() {
 
     private lateinit var appBarConfiguration: AppBarConfiguration
